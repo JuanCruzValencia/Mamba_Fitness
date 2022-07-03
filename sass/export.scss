@@ -1,0 +1,11 @@
+/* MISC */
+@import './misc/vars';
+@import './misc/normalize';
+@import './misc/mixins';
+/* PARTIALS */
+@import './partials/header';
+@import './partials/footer';
+/* PAGES */
+@import './index';
+@import './views/info';
+@import './views/contact';
